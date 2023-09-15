@@ -1,4 +1,4 @@
-#  Ōɖìղ • オーディン, a fork of Kigyō
+#  Ōɖìղ • オーディン, a fork of odin
 
 [![ForTheBadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/itsLuuke/) </br>
