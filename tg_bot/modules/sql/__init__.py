@@ -6,7 +6,7 @@ from tg_bot import DB_URI, log
 
 
 def start() -> scoped_session:
-    engine = create_engine(DB_URI, client_encoding="utf8")
+    engine = create_engine(DB_URI, client_encoding="utf8", pool_pre_ping=True)
     log.info("[PostgreSQL] Connecting to database......")
     BASE.metadata.bind = engine
     BASE.metadata.create_all(engine)
