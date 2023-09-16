@@ -32,9 +32,9 @@ pm_help_text: |
    I'm a modular group management bot with a few fun extras! Have a look at the following for an idea of some of
    the things I can help you with.
    *Main* commands available:
-    • /start: Starts me, can be used to check I'm alive or not.
-    • /help: PM's you this message.
-    • /settings:
+    ◈ /start: Starts me, can be used to check I'm alive or not.
+    ◈ /help: PM's you this message.
+    ◈ /settings:
       - in PM: will send you your settings for all supported modules.
       - in a group: will redirect you to pm, with all that chat's settings.
     Click on the buttons below to get documentation about specific modules!
@@ -47,35 +47,35 @@ updates_channel_link_btn: "Updates"
 src_btn: "Source code"
 
 admin_help: |
-   • `/admins`*:* list of admins in the chat
-   • `/adminlist`*:* list of admins in the chat
-   • `/staff`*:* list of admins in the chat
+   ⏣ `/admins`*:* list of admins in the chat
+   ⏣ `/adminlist`*:* list of admins in the chat
+   ⏣ `/staff`*:* list of admins in the chat
 
    *Admins only:*
-   • `/invitelink`*:* gets invitelink
+   ⏣ `/invitelink`*:* gets invitelink
 
-   • `/promote`*:* promotes the user replied to
-   • `/fullpromote`*:* promotes the user replied to with full permissions
-   • `/demote`*:* demotes the user replied to
-   • `/admincache`*:* refreshes the admins cache (useless as it is always updated)
-   • `/setanon <user_id/mention>`*:* Will make the user anonymous (if no user is given then will set the sender to anonymous)
-   • `/unsetanon <user_id/mention>`*:* Will make the user non anonymous (if no user is given then will set the sender to non anonymous)
-   • `/title <title here>`*:* sets a custom title for an admin that the bot promoted
+   ⏣ `/promote`*:* promotes the user replied to
+   ⏣ `/fullpromote`*:* promotes the user replied to with full permissions
+   ⏣ `/demote`*:* demotes the user replied to
+   ⏣ `/admincache`*:* refreshes the admins cache (useless as it is always updated)
+   ⏣ `/setanon <user_id/mention>`*:* Will make the user anonymous (if no user is given then will set the sender to anonymous)
+   ⏣ `/unsetanon <user_id/mention>`*:* Will make the user non anonymous (if no user is given then will set the sender to non anonymous)
+   ⏣ `/title <title here>`*:* sets a custom title for an admin that the bot promoted
 
-   • `/zombies`*:* removes the deleted accounts from the group
+   ⏣ `/zombies`*:* removes the deleted accounts from the group
    
-   • `/import`*:* reply to a group butler backup file to import as much as possible, making the transfer super simple! Note \
+   ⏣ `/import`*:* reply to a group butler backup file to import as much as possible, making the transfer super simple! Note \
        that files/photos can't be imported due to telegram restrictions.
-   • `/export`*:* Export group data, which will be exported are: rules, notes (documents, images, music, video, audio, voice, text, text buttons)
+   ⏣ `/export`*:* Export group data, which will be exported are: rules, notes (documents, images, music, video, audio, voice, text, text buttons)
    
-   • `/setgpic`*:* sets the replied image/document as the group picture
-   • `/delgpic`*:* deletes the group picture 
-   • `/setgtitle`*:* sets the group title
-   • `/setgdesc`*:* sets the group description
-   • `/setgsticker`*:* sets the group sticker pack
-   • `/setgstickers`*:* sets the group sticker pack
+   ⏣ `/setgpic`*:* sets the replied image/document as the group picture
+   ⏣ `/delgpic`*:* deletes the group picture 
+   ⏣ `/setgtitle`*:* sets the group title
+   ⏣ `/setgdesc`*:* sets the group description
+   ⏣ `/setgsticker`*:* sets the group sticker pack
+   ⏣ `/setgstickers`*:* sets the group sticker pack
    
-   • `/requests <on-off/yes-no/true-false>`*:* toggle the approve/decline join request menu
+   ⏣ `/requests <on-off/yes-no/true-false>`*:* toggle the approve/decline join request menu
 
 afk_help: |
    - /afk <reason>: mark yourself as AFK(away from keyboard).
