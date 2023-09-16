@@ -9,9 +9,8 @@ set_chat_lang: "Great, {} it is from now on!"
 
 
 pm_start_text: |
-   Hi {}, I'm {},
+   Hi {}, I['](https://te.legra.ph/file/63d24b085118f8a9864a3.jpg)m {},
    I am a modular group management bot with some fun extras ;)
-   [](https://te.legra.ph/file/63d24b085118f8a9864a3.jpg)
    I can do a variety of things, and help u manage your group efficiently!
    
    All commands can be accessed by using: / ! or >
